@@ -1,4 +1,5 @@
-# MULTI-CRITERIA-DECISION-MAKING-MODEL-USING-AHP-TOPSIS-AND-FUZZY-LOGIC
+# MULTI-CRITERIA-DECISION-MAKING-MODEL
+
 The selection of an optimal facility location for a medical camp
 poses a multi-criteria decision-making problem with significant implications on
 accessibility, efficiency, and healthcare service delivery. This paper proposes the
